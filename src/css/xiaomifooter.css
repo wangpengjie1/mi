@@ -1,0 +1,134 @@
+@charset "utf-8";
+.site-footer .container-footer {
+  width: 1226px;
+  height: 330px;
+  margin: 0 auto;
+}
+.site-footer .container-footer .footer-service {
+  padding: 27px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+.site-footer .container-footer .footer-service .list-service {
+  margin: 0;
+  padding: 0;
+}
+.site-footer .container-footer .footer-service .list-service li {
+  float: left;
+  width: 19.8%;
+  height: 25px;
+  border-left: 1px solid #e0e0e0;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+}
+.site-footer .container-footer .footer-service .list-service li a {
+  color: #616161;
+}
+.site-footer .container-footer .footer-service .list-service li a:hover {
+  color: orange;
+}
+.site-footer .footer-links {
+  padding: 40px 0;
+}
+.site-footer .footer-links .col-links {
+  width: 1226px;
+  margin: 0;
+}
+.site-footer .footer-links .col-links .col-links-li {
+  width: 160px;
+  margin: 0;
+}
+.site-footer .footer-links .col-links .col-links-li p {
+  margin: -1px 0 26px;
+  font-size: 14px;
+  line-height: 0.7;
+  color: #424242;
+}
+.site-footer .footer-links .col-links .col-links-li p a {
+  color: #757575;
+  margin: 10px 0 0;
+  font-size: 12px;
+}
+.site-footer .footer-links .col-links .col-links-li p a:hover {
+  color: orange;
+}
+.site-footer .footer-links .col-links .col-links-box {
+  width: 251px;
+  border-left: 1px solid #e0e0e0;
+  text-align: center;
+  color: #616161;
+}
+.site-footer .footer-links .col-links .col-links-box .phone-number {
+  font-size: 22px;
+  line-height: 1;
+  color: #ff6700;
+}
+.site-footer .footer-links .col-links .col-links-box .phone-time {
+  margin: 0 0 5px 0;
+  font-size: 12px;
+}
+.site-footer .footer-links .col-links .col-links-box .follow {
+  font-size: 12px;
+  margin-top: 10px;
+}
+.site-footer .footer-links .col-links .col-links-box a {
+  color: #ff6700;
+  width: 118px;
+  height: 28px;
+  font-size: 12px;
+  line-height: 28px;
+  border: 1px solid #ff6700;
+  display: inline-block;
+}
+.site-footer .footer-links .col-links .col-links-box a:hover {
+  background-color: #ff6700;
+  color: #fff;
+}
+.site-info {
+  padding: 30px 0;
+  font-size: 12px;
+  background: #fafafa;
+  margin-top: 10px;
+}
+.site-info .container-footer {
+  width: 1226px;
+  margin: 0 auto;
+}
+.site-info .container-footer .logo {
+  width: 57px;
+  height: 57px;
+  margin-right: 10px;
+  background: url(../img/logo-footer.png);
+}
+.site-info .container-footer .info-text {
+  color: #b0b0b0;
+  padding-left: 67px;
+  font-size: 12px;
+}
+.site-info .container-footer .info-text .sites {
+  margin: 0;
+  line-height: 18px;
+}
+.site-info .container-footer .info-text .sites a {
+  color: #757575;
+}
+.site-info .container-footer .info-text .sites a:hover {
+  color: #ff6700;
+}
+.site-info .container-footer .info-links {
+  height: 28px;
+  margin: 4px 0 15px;
+}
+.site-info .container-footer .info-links a img {
+  height: 28px;
+  margin-left: 0;
+}
+.site-info .container-footer .info-links a .img1 {
+  width: 105px;
+  height: 40px;
+}
+.slogan {
+  margin: 30px auto 0;
+  width: 100%;
+  height: 19px;
+}

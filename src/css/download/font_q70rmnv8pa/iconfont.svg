@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="weixuanzhongyuanquan" unicode="&#983337;" d="M510.44304-44.315042c-237.326197 0-430.396447 193.21249-430.396447 430.695253 0 237.502206 193.07025 430.717765 430.396447 430.717765 237.303684 0 430.40668-193.236026 430.40668-430.717765C940.84972 148.898471 747.791749-44.315042 510.44304-44.315042zM510.44304 771.585409c-212.213239 0-384.861368-172.782182-384.861368-385.182686 0-212.403574 172.647105-385.161197 384.861368-385.161197 212.224496 0 384.870578 172.782182 384.870578 385.161197C895.314641 598.803227 722.667535 771.585409 510.44304 771.585409z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="tx-zhengfangxing" unicode="&#58960;" d="M962-66H62V834h900v-900zM162 34h700V734H162v-700z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

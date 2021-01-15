@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>小米账户-登录</title>
+    <link rel="stylesheet" href="../css/xiaomi.css">
+    <link rel="stylesheet" href="../css/xiaomidenglu.css">
+</head>
+
+<body style="box-sizing: border-box;">
+    <div class="warpper">
+        <!-- logo -->
+        <div class="h_panel">
+            <a href="#">
+                <div class="h_logo">
+                </div>
+            </a>
+        </div>
+        <!-- 主体 -->
+        <div class="banner">
+            <!-- 版心 -->
+            <div class="EditionCenter clr_fix">
+                <!-- 登录表单 -->
+                <div class="main-content fr">
+                    <div class="main-conter1">
+                        <div class="nav-tabs">
+                            <!-- 账号登录 -->
+                            <div class="nav_tabs_panel">
+                                <div class="nav_tabs_header">
+                                    <a href="#" class="navtab-link now">账号登录</a>
+                                    <span class="line"></span>
+                                    <a href="#" class="navtab-link now">扫码登录</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 输入框 -->
+                        <!-- <div class="tabs-con">
+                            <div class="login_area">
+
+                                <div class="loginbox">
+                                    <input type="text" placeholder="邮箱/手机号码/小米ID" class="item_account" style="width: 346px; height: 64px; padding:  0 15px;">
+                                </div>
+                                <div class="loginbox">
+                                    <input type="text" placeholder="密码" class="item_account" style="width: 346px; height: 64px; padding: 0 15px; margin: 20px auto;">
+                                </div>
+                            </div> -->
+
+                        <!-- 登录 -->
+                        <!-- <div class="btns_bg">
+                                <input type="button" class="btnadpt" value="登录" style="height: 64px; width: 375px;background: orange; border: 1px solid #ffffff; color: #ffffff;">
+                            </div> -->
+
+                        <form action="../../interface/login.php" method="POST" style="text-align: center;margin-top: 50px;">
+                            <div class="input-group">
+                                <span class="input-group-addon">邮箱/手机号码/小米ID</span>
+                                <input type="text" name="username" class="form-control">
+                            </div>
+                            <div class="input-group">
+                                <span class="input-group-addon">密码:</span>
+                                <input type="text" name="password" class="form-control">
+                            </div>
+                            <input type="submit" class="btn btn-block btn-success" value="登录" style="height: 64px; width: 375px;background: orange; border: 1px solid #ffffff; color: #ffffff;">
+                        </form>
+
+                        <!-- 登录方式 -->
+                        <div class="other_panel">
+                            <p class="btnadpt"><a href="#">手机短信登录/注册</a></p>
+                            <div class="reverse"><a href="#">立即注册</a><span>|</span><a href="#">忘记密码</a></div>
+
+                            <!-- 其他登录方式 -->
+                            <div class="other_login_type clr_fix">
+                                <ul class="clr_fix" style="margin-left: 70px;">
+                                    <li>
+                                        <a href="#" class="fl"><img src="../img/登录/QQ.png" alt="" class="qtdl fl"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="fl"><img src="../img/登录/weibo.png" alt="" class="qtdl fl"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="fl"><img src="../img/登录/weixin.png" alt="" class="qtdl fl"></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="fl"><img src="../img/登录/zhifubao.png" alt="" class="qtdl fl"></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 底部 -->
+    <div class="n-footer">
+        <ul class="clr_fix" style="margin-left: 415px;">
+            <li class="fl" style="padding: 0 10px;">
+                <a href="#" style="color: black;">简体</a>
+            </li>
+            <li class="fl " style=" padding: 0 10px; ">
+                <a href="# " style="color: black;">繁体</a>
+            </li>
+            <li class="fl" style="padding: 0 10px;">
+                <a href="#" style="color: black;">English</a>
+            </li>
+            <li class="fl" style=" padding: 0 10px; ">
+                <a href="# " style="color: black;">常见问题</a>
+            </li>
+            <li class="fl" style="padding: 0 10px;">
+                <a href="#" style="color: black;">隐私政策</a>
+            </li>
+        </ul>
+        <p style="text-align: center; padding: 10px 0;color: #757575;font-size: 14px;">小米公司版权所有-京ICP备10046444-京公网安备11010802020134号-京ICP证110507号</p>
+    </div>
+    </div>
+</body>
+
+</html>

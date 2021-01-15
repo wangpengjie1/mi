@@ -1,0 +1,111 @@
+@charset "utf-8";
+.warpper .h_panel {
+  width: 1130px;
+  margin: 0 auto;
+}
+.warpper .h_panel .h_logo {
+  background: url(../img/小米商城.jpg) no-repeat center center;
+  width: 250px;
+  height: 98px;
+}
+.warpper .banner {
+  width: 100%;
+  height: 688px;
+  background: url(../img/登录/登录背景.jpg) no-repeat center center;
+  margin-top: -50px;
+}
+.warpper .banner .EditionCenter {
+  width: 1130px;
+  margin: 0 auto;
+  padding-top: 80px;
+}
+.warpper .banner .EditionCenter .main-content {
+  width: 410px;
+  min-height: 556px;
+  background-color: #fff;
+  padding: 27px 0 24px;
+  text-align: center;
+  font-size: 24px;
+}
+.warpper .banner .EditionCenter .main-content a {
+  color: #666;
+}
+.warpper .banner .EditionCenter .main-content a:hover {
+  color: #f56600;
+}
+.warpper .banner .EditionCenter .main-content .main-content1 {
+  height: 83px;
+}
+.warpper .banner .EditionCenter .main-content .main-content1 .nav-tabs {
+  line-height: 83px;
+}
+.warpper .banner .EditionCenter .main-content .main-content1 .nav-tabs .nav_tabs_panel {
+  height: 83px;
+  line-height: 83px;
+}
+.warpper .banner .EditionCenter .main-content .main-content1 .nav-tabs .nav_tabs_panel .nav_tabs_header {
+  padding: 27px 0 24px;
+  text-align: center;
+  font-size: 24px;
+  color: #666;
+}
+.warpper .banner .EditionCenter .line {
+  width: 1px;
+  height: 24px;
+  margin: 0 35px 0 42px;
+  border: 1px solid #e0e0e0;
+  background: #e0e0e0;
+}
+.warpper .banner .EditionCenter .tabs-con {
+  width: 410px;
+  height: 445px;
+}
+.warpper .banner .EditionCenter .login_area {
+  width: 348px;
+  padding-bottom: 0;
+  margin-top: 27px;
+  text-align: center;
+}
+.warpper .banner .EditionCenter .login_area .loginbox {
+  margin-left: 16px;
+}
+.warpper .banner .btns_bg {
+  padding-top: 10px;
+}
+.warpper .banner .other_panel {
+  width: 348px;
+  height: 248px;
+  margin: 0 auto;
+}
+.warpper .banner .other_panel .btnadpt {
+  margin-bottom: 30px;
+}
+.warpper .banner .other_panel .btnadpt a {
+  width: 348px;
+  height: 20px;
+  text-align: center;
+  color: #f56600;
+  font-size: 14px;
+}
+.warpper .banner .other_panel .reverse a {
+  font-size: 14px;
+}
+.warpper .banner .other_panel .reverse span {
+  font-size: 14px;
+  color: #e0e0e0;
+  margin: 0 10px;
+}
+.warpper .banner .other_panel .other_login_type {
+  padding-top: 90px;
+}
+.warpper .banner .other_panel .other_login_type .qtdl {
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+}
+.warpper .n-footer {
+  margin-top: 0;
+  padding-top: 70px;
+  width: 1226px;
+  margin: 0 auto;
+}
